@@ -25,7 +25,6 @@
   position: fixed;
   margin-left: 35vw;
   margin-top: -20px;
-  color: white;
 }
 
 img {
@@ -46,7 +45,7 @@ margin-top: -20px;
 #beskrivelse {
   margin-left: 50vw;
   margin-top: 250px;
-  color: white;
+
 }
 .navn {
   font-family: "Silkscreen";

@@ -18,9 +18,9 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="nav-container">
       <nav class="navbar">
-        <RouterLink to="/projects" id="nav1" style="text-decoration: none; color: aliceblue;"> MINE PROJEKTER</RouterLink>
-        <RouterLink to="/about" id="nav2" style="text-decoration: none; color: aliceblue;">OM MIG</RouterLink>
-        <RouterLink to="/contact" id="nav3" style="text-decoration: none; color: aliceblue;">KONTAKT</RouterLink>
+        <RouterLink to="/projekter" id="nav1" style="text-decoration: none; color: aliceblue;"> MINE PROJEKTER</RouterLink>
+        <RouterLink to="/om" id="nav2" style="text-decoration: none; color: aliceblue;">OM MIG</RouterLink>
+        <RouterLink to="/kontakt" id="nav3" style="text-decoration: none; color: aliceblue;">KONTAKT</RouterLink>
       </nav>
     </div>
 

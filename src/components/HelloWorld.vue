@@ -22,9 +22,10 @@
 
 #intro {
   text-align: right;
-  position: absolute;
+  position: fixed;
   margin-left: 35vw;
-  margin-top: -15px;
+  margin-top: -20px;
+  
 }
 
 img {

@@ -14,7 +14,7 @@ const router = createRouter({
       
     },
     {
-      path: '/ommig',
+      path: '/om',
       name: 'about',
       component: AboutView,
     },

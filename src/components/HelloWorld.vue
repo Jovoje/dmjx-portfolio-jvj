@@ -25,7 +25,7 @@
   position: fixed;
   margin-left: 35vw;
   margin-top: -20px;
-  
+  color: white;
 }
 
 img {
@@ -46,6 +46,7 @@ margin-top: -20px;
 #beskrivelse {
   margin-left: 50vw;
   margin-top: 250px;
+  color: white;
 }
 .navn {
   font-family: "Silkscreen";
@@ -53,10 +54,10 @@ margin-top: -20px;
   font-size: 3vw;
   padding: 1vw;
   margin-left: 10px;
-  color: aliceblue;
+  color: rgb(255, 255, 255);
 }
 .nav1 {
-  color: aliceblue;
+  color: rgb(255, 255, 255);
 
 }
 

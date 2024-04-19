@@ -17,7 +17,7 @@
 <style>
 
 div {
-  color: aliceblue;
+  color: rgb(255, 255, 255);
 
 }
 
